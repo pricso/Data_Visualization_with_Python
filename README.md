@@ -1,5 +1,4 @@
 # Data Visualization with Python
----------------
 
 Data Visualization with Python is a course provided by IBM in Coursera. It shows you to take data that at first glance has little meaning and present that data in a form that conveys insights. 
 
