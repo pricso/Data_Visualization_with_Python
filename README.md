@@ -22,4 +22,4 @@ The course teaches how to work with many Data Visualization tools and techniques
 In this repository, I share the projects I have worked on during the course.
 ### Guided Projects
 - [Exploring and pre-Processing a Dataset using Pandas](https://github.com/pricso/Data_Visualization_with_Python/blob/4ffa8b9525d5e3c45b1f9ca85d16c9cc6e2798c3/Dataset-Preprocessing-Exploring-with-Pandas.ipynb)
-- [Introduction to Matplotlib and Line Plots]()
+- [Introduction to Matplotlib and Line Plots](https://github.com/pricso/Data_Visualization_with_Python/blob/e8c3d1159a9f822f3842e08989a981ffa1dc032a/Introduction-to-Matplotlib-and-Line-Plots.ipynb)
