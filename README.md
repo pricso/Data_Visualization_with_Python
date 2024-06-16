@@ -21,4 +21,4 @@ The course teaches how to work with many Data Visualization tools and techniques
 ## Projects
 
 ### Guided Projects
-- (Exploring and pre-Processing a Dataset using Pandas)[https://github.com/pricso/Data_Visualization_with_Python/blob/9c0bf70ca482e1696ea2869b7e1ab6214c8c24c6/Dataset-Preprocessing-Exploring-with-Pandas.ipynb]
+- [Exploring and pre-Processing a Dataset using Pandas]([https://github.com/pricso/Data_Visualization_with_Python/blob/9c0bf70ca482e1696ea2869b7e1ab6214c8c24c6/Dataset-Preprocessing-Exploring-with-Pandas.ipynb)
